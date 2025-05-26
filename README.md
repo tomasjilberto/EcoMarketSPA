@@ -1,7 +1,7 @@
   ---------------------------------------------
   Clientes
 
-- GET /api/clientes`  
+- ` GET /api/clientes`  
   Obtiene el listado completo de clientes.
 
 - `GET /api/clientes/{id}`  
